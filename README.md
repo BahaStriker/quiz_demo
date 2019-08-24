@@ -13,3 +13,5 @@ Skill Level:
 -------
 * Intermediate PHP/MySQL
 * Intermediate JS/AJAX
+
+https://medium.com/@swisswebmiss/create-your-very-own-interactive-quiz-ae020a18f766
